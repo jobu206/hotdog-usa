@@ -1,11 +1,26 @@
-.navbar-brand {
-     font-family: 'Pacifico', cursive;
-     font-size: 25px;
-     letter-spacing: 3px;
+.navbar {
+  background-color: #3f51b5;
+  box-shadow:
+       0 2px 4px -1px rgba(0, 0, 0, 0.5),
+       0 4px 5px 0 rgba(0, 0, 0, 0.16),
+       0 1px 10px 0 rgba(0, 0, 0, 0.18)
 }
 
-.nav-item a {
-     color: #fff;
-     font-family: 'Ubuntu', sans-serif;
-     font-size: 20px;
+.navbar-brand {
+  font-family: "Pacifico", cursive;
+  font-size: 25px;
+  letter-spacing: 3px;
 }
+
+.navbarText {
+  color: #fff;
+  font-family: "Raleway", sans-serif;
+  font-size: 20px;
+}
+
+.custom-toggler.navbar-toggler {
+     border-color: #fff;
+ }
+ .custom-toggler .navbar-toggler-icon {
+   background-image: url("data:image/svg+xml;charset=utf8,%3Csvg viewBox='0 0 32 32' xmlns='http://www.w3.org/2000/svg'%3E%3Cpath stroke='rgba(255,255,255, 0.7)' stroke-width='2' stroke-linecap='round' stroke-miterlimit='10' d='M4 8h24M4 16h24M4 24h24'/%3E%3C/svg%3E");
+ }

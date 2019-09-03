@@ -5,14 +5,14 @@ import "./style.css";
 class Navbar extends Component {
   render() {
     return (
-      <nav className="navbar navbar-expand-lg navbar-dark bg-dark">
+      <nav className="navbar navbar-expand-lg">
         <Router>
           <Link className="navbarText navbar-brand" to="/">
             Hot Dog USA
           </Link>
         </Router>
         <button
-          className="navbar-toggler"
+          className="navbar-toggler custom-toggler"
           type="button"
           data-toggle="collapse"
           data-target="#navbarNavAltMarkup"
