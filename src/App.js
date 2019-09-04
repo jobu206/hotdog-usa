@@ -7,7 +7,7 @@ import Navbar from "./Components/Navbar";
 class App extends Component {
   render() {
     return (
-      <Router>
+      <Router basename="/hotdoug-usa">
         <Navbar />
         <Jumbotron />
       </Router>

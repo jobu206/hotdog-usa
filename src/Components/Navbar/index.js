@@ -1,10 +1,9 @@
-import React, { Component } from "react";
+import React from "react";
 import { BrowserRouter as Router, Link } from "react-router-dom";
 import "./style.css";
 
-class Navbar extends Component {
-  render() {
-    return (
+const Navbar = () => {
+  return(
       <nav className="navbar navbar-expand-lg">
         <Router>
           <Link className="navbarText navbar-brand" to="/">
@@ -23,8 +22,7 @@ class Navbar extends Component {
           <span className="navbar-toggler-icon"></span>
         </button>
       </nav>
-    );
-  }
+  )
 }
 
 export default Navbar;

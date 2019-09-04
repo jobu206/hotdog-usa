@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/hotdog-usa/static/css/main.5d20ef4e.chunk.css",
-    "main.js": "/hotdog-usa/static/js/main.7a785b18.chunk.js",
-    "main.js.map": "/hotdog-usa/static/js/main.7a785b18.chunk.js.map",
+    "main.js": "/hotdog-usa/static/js/main.be9a9289.chunk.js",
+    "main.js.map": "/hotdog-usa/static/js/main.be9a9289.chunk.js.map",
     "runtime~main.js": "/hotdog-usa/static/js/runtime~main.4f4be737.js",
     "runtime~main.js.map": "/hotdog-usa/static/js/runtime~main.4f4be737.js.map",
-    "static/js/2.4cd8a365.chunk.js": "/hotdog-usa/static/js/2.4cd8a365.chunk.js",
-    "static/js/2.4cd8a365.chunk.js.map": "/hotdog-usa/static/js/2.4cd8a365.chunk.js.map",
+    "static/js/2.8164dfb3.chunk.js": "/hotdog-usa/static/js/2.8164dfb3.chunk.js",
+    "static/js/2.8164dfb3.chunk.js.map": "/hotdog-usa/static/js/2.8164dfb3.chunk.js.map",
     "index.html": "/hotdog-usa/index.html",
-    "precache-manifest.0c73f4ad9b5718e8768845d52a3474f9.js": "/hotdog-usa/precache-manifest.0c73f4ad9b5718e8768845d52a3474f9.js",
+    "precache-manifest.a0c8ef9c43ee0e64e7689d850e26099e.js": "/hotdog-usa/precache-manifest.a0c8ef9c43ee0e64e7689d850e26099e.js",
     "service-worker.js": "/hotdog-usa/service-worker.js",
     "static/css/main.5d20ef4e.chunk.css.map": "/hotdog-usa/static/css/main.5d20ef4e.chunk.css.map"
   }
