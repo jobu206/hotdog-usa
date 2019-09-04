@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "c6ceb60d8e0452e93fd1e2ed73ffce02",
+    "revision": "83459037874d0ce014f648728f7b497b",
     "url": "/hotdog-usa/index.html"
   },
   {
