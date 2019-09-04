@@ -4,8 +4,8 @@ import "./style.css";
 class Jumbotron extends Component {
   render() {
     return (
-      <div class="jumbotron jumbotron-fluid">
-        <div class="container">
+      <div className="jumbotron jumbotron-fluid">
+        <div className="container">
           
         </div>
       </div>
