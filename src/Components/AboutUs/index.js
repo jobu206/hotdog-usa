@@ -1,10 +1,11 @@
 import React from "react";
-import "style.css";
+import "./style.css";
 
 const AboutUs = () => {
   return (
-    <div>
-      <h1 className="text-center">About Us</h1>
+    <div className="container pt-10">
+      <h1 className="text-center font-weight-bold">About Us</h1>
+      <hr />
       <h3 className="font-weight-bold">Mission Statement</h3>
       <p>
         The Hot Dog USA Jump Rope Team is dedicated to the promotion of the
