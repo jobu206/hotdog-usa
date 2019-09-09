@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/hotdog-usa/precache-manifest.a0c8ef9c43ee0e64e7689d850e26099e.js"
+  "/hotdog-usa/precache-manifest.44c38081a7ddaf1c232cf8f4183dacbd.js"
 );
 
 self.addEventListener('message', (event) => {
