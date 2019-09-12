@@ -3,8 +3,8 @@ import "./App.css";
 import { BrowserRouter as Router } from "react-router-dom";
 import Jumbotron from "./Components/Jumbotron";
 import Navbar from "./Components/Navbar";
-// import AboutUs from "./Components/AboutUs";
-import Events from "./Components/Events";
+import AboutUs from "./Components/AboutUs";
+// import Events from "./Components/Events";
 import FOOTER from "./Components/Footer";
 
 class App extends Component {
@@ -13,7 +13,7 @@ class App extends Component {
       <Router basename="/hotdoug-usa">
         <Navbar />
         <Jumbotron />
-        <Events />
+        <AboutUs />
         <FOOTER />
       </Router>
     );

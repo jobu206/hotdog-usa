@@ -6,3 +6,11 @@ p {
     font-family: 'Courier New', Courier, monospace;
     /* font-size: 11px; */
 }
+
+p.lastPara {
+    padding-bottom: 35px;
+}
+
+.space {
+    padding-top: 15px;
+}
