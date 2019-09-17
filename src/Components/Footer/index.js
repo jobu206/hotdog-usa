@@ -1,7 +1,7 @@
 import React from 'react';
 import './style.css';
 
-const FOOTER = () => {
+const Footer = () => {
     return (
         <footer className="footer text-center mt-auto py-3">
             <div className="container">
@@ -11,4 +11,4 @@ const FOOTER = () => {
     )
 }
 
-export default FOOTER;
+export default Footer;
