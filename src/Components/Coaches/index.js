@@ -27,7 +27,7 @@ const Coaches = () => (
   <div className="container">
     <h1 className="text-center">Coaches</h1>
     <hr />
-    <div className="row">
+    <div className="row coaches">
       {coachesData.map((coach, coachIndex) => (
         <Coach
           key={coachIndex}

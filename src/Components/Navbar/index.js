@@ -4,7 +4,7 @@ import "./style.css";
 
 const Navbar = () => {
   return(
-      <nav className="navbar navbar-expand-lg font-weight-bold">
+      <nav className="navbar navbar-expand-lg sticky-top font-weight-bold">
         <Router>
           <Link className="navbarText navbar-brand" to="/">
             Hot Dog USA

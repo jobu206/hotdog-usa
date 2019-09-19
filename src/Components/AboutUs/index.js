@@ -17,7 +17,7 @@ const AboutUs = () => {
       <h3 className="font-weight-bold">Team Organization</h3>
       <p>
         We have two levels of participation on our team, <b>"Junior Team"</b>{" "}
-        and <b>"Elite Team".</b>
+        and <b>"Elite Team"</b>.
       </p>
       <p>
         <b>Junior Team</b> is for jumpers who are new to the sport but are
