@@ -1,16 +1,12 @@
-import React, { Component } from "react";
-import "./style.css";
+import React from 'react';
+import './style.css';
 
-class Jumbotron extends Component {
-  render() {
-    return (
-      <div className="jumbotron jumbotron-fluid">
-        <div className="container">
-          
-        </div>
-      </div>
-    );
-  }
-}
+const Jumbotron = () => {
+	return (
+		<div className='jumbotron jumbotron-fluid'>
+			<div className='container'></div>
+		</div>
+	);
+};
 
 export default Jumbotron;
