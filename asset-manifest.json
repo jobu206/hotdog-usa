@@ -1,15 +1,26 @@
 {
   "files": {
-    "main.css": "/hotdog-usa/static/css/main.c307b525.chunk.css",
-    "main.js": "/hotdog-usa/static/js/main.70b0a717.chunk.js",
-    "main.js.map": "/hotdog-usa/static/js/main.70b0a717.chunk.js.map",
-    "runtime~main.js": "/hotdog-usa/static/js/runtime~main.4f4be737.js",
-    "runtime~main.js.map": "/hotdog-usa/static/js/runtime~main.4f4be737.js.map",
-    "static/js/2.8164dfb3.chunk.js": "/hotdog-usa/static/js/2.8164dfb3.chunk.js",
-    "static/js/2.8164dfb3.chunk.js.map": "/hotdog-usa/static/js/2.8164dfb3.chunk.js.map",
+    "main.css": "/hotdog-usa/static/css/main.c157095c.chunk.css",
+    "main.js": "/hotdog-usa/static/js/main.fe06fe37.chunk.js",
+    "main.js.map": "/hotdog-usa/static/js/main.fe06fe37.chunk.js.map",
+    "runtime-main.js": "/hotdog-usa/static/js/runtime-main.839e153d.js",
+    "runtime-main.js.map": "/hotdog-usa/static/js/runtime-main.839e153d.js.map",
+    "static/js/2.bb189464.chunk.js": "/hotdog-usa/static/js/2.bb189464.chunk.js",
+    "static/js/2.bb189464.chunk.js.map": "/hotdog-usa/static/js/2.bb189464.chunk.js.map",
     "index.html": "/hotdog-usa/index.html",
-    "precache-manifest.3503c91f38f39dcf91261d0cec152954.js": "/hotdog-usa/precache-manifest.3503c91f38f39dcf91261d0cec152954.js",
+    "precache-manifest.422d07efde17218ccfe900854671443e.js": "/hotdog-usa/precache-manifest.422d07efde17218ccfe900854671443e.js",
     "service-worker.js": "/hotdog-usa/service-worker.js",
-    "static/css/main.c307b525.chunk.css.map": "/hotdog-usa/static/css/main.c307b525.chunk.css.map"
-  }
+    "static/css/main.c157095c.chunk.css.map": "/hotdog-usa/static/css/main.c157095c.chunk.css.map",
+    "static/js/2.bb189464.chunk.js.LICENSE.txt": "/hotdog-usa/static/js/2.bb189464.chunk.js.LICENSE.txt",
+    "static/media/style.css": "/hotdog-usa/static/media/bg.d409730a.jpg",
+    "static/media/brianHsu.jpg": "/hotdog-usa/static/media/brianHsu.d49c10e7.jpg",
+    "static/media/carlaLeroy.jpg": "/hotdog-usa/static/media/carlaLeroy.3124126b.jpg",
+    "static/media/christiHartman.jpg": "/hotdog-usa/static/media/christiHartman.0f6a4a77.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.839e153d.js",
+    "static/js/2.bb189464.chunk.js",
+    "static/css/main.c157095c.chunk.css",
+    "static/js/main.fe06fe37.chunk.js"
+  ]
 }
