@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7dc060feba63e9407926960878604000",
+    "revision": "3efb803ed29ee7062c653db06c7dd889",
     "url": "/hotdog-usa/index.html"
   },
   {
-    "revision": "c57489a4c583bbf80e49",
+    "revision": "3b356eeff558ad6a6483",
     "url": "/hotdog-usa/static/css/main.c157095c.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/hotdog-usa/static/js/2.bb189464.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "c57489a4c583bbf80e49",
-    "url": "/hotdog-usa/static/js/main.fe06fe37.chunk.js"
+    "revision": "3b356eeff558ad6a6483",
+    "url": "/hotdog-usa/static/js/main.06c8892f.chunk.js"
   },
   {
     "revision": "2b0716ae0c1603201b67",
