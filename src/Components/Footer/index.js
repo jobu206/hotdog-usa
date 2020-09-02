@@ -9,7 +9,9 @@ const Footer = () => {
 			<div className='container'>
 				<div className='row'>
 					<div className='col'>
-						<img className='ijruLogo' src={ijru} alt='ijru' />
+						<a href='https://ijru.sport'>
+							<img className='ijruLogo float-left' src={ijru} alt='ijru' />
+						</a>
 					</div>
 					<div className='col-6'>
 						<span className='text-center'>
@@ -17,7 +19,9 @@ const Footer = () => {
 						</span>
 					</div>
 					<div className='col'>
-						<img className='amjrfLogo' src={amjrf} alt='amjrf' />
+						<a href='https://www.amjrf.com'>
+							<img className='amjrfLogo float-right' src={amjrf} alt='amjrf' />
+						</a>
 					</div>
 				</div>
 			</div>
